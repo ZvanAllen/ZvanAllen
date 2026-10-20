@@ -8,7 +8,7 @@ Ottawa, Canada · [zackvanallen.com](https://www.zackvanallen.com/) · [Google S
 
 #### Projects
 
-- **[QualFrame](https://github.com/ZvanAllen/qualframe)**: an open-source workspace for AI-assisted directed qualitative content analysis. Every model-proposed code sits beside its exact source passage for human review, with a traceable methods record. [Zenodo DOI](https://doi.org/10.5281/zenodo.23300233)
+- **[QualFrame](https://github.com/ZvanAllen/qualframe)**: an open-source workspace for AI-assisted directed qualitative content analysis. Every model-proposed code sits beside its exact source passage for human review, with a traceable methods record. [Zenodo DOI](https://doi.org/10.5281/zenodo.23442027)
 - **[QualFrame studies](https://github.com/ZvanAllen/qualframe-studies)**: designs and configuration for two evaluations of LLMs in deductive qualitative coding: how task framing changes coding of interviews, and four models against expert behaviour-change annotation of published trials.
 - **[triagekit](https://github.com/ZvanAllen/triagekit)**: a deterministic, auditable rules engine for clinical referral triage, co-designed with clinicians, with an optional LLM baseline for comparison.
 <!-- Uncomment once the repo is public:
