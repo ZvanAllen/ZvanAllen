@@ -10,6 +10,7 @@ Ottawa, Canada · [zackvanallen.com](https://www.zackvanallen.com/) · [Google S
 
 - **[QualFrame](https://github.com/ZvanAllen/qualframe)**: an open-source workspace for AI-assisted directed qualitative content analysis. Every model-proposed code sits beside its exact source passage for human review, with a traceable methods record. [Zenodo DOI](https://doi.org/10.5281/zenodo.23442027)
 - **[QualFrame studies](https://github.com/ZvanAllen/qualframe-studies)**: designs and configuration for two evaluations of LLMs in deductive qualitative coding: how task framing changes coding of interviews, and four models against expert behaviour-change annotation of published trials.
+- **[edsim](https://github.com/ZvanAllen/edsim)**: an open-source emergency department simulation with a 3D viewer and synthetic examples for exploring operations. It is a research and demonstration tool, not a clinical decision system.
 - **[triagekit](https://github.com/ZvanAllen/triagekit)**: a deterministic, auditable rules engine for clinical referral triage, co-designed with clinicians, with an optional LLM baseline for comparison.
 - **[Pressure or Persuasion](https://github.com/ZvanAllen/pressure-or-persuasion)**: an Inspect evaluation of whether operator incentives push LLMs from persuasion toward manipulation. The primary outcome is deterministic, and the LLM judges are validated against planted tactics.
 
