@@ -16,6 +16,7 @@ Ottawa, Canada · [zackvanallen.com](https://www.zackvanallen.com/) · [Google S
 
 #### Selected papers
 
+- [The analytic multiverse of AI-assisted directed content analysis: a framework, open tools, and a screening study](https://osf.io/preprints/psyarxiv/rnjsx_v1) (PsyArXiv preprint, 2026)
 - [Can AI match human experts? Evaluating LLM-generated feedback on resident scholarly projects](https://doi.org/10.64898/2026.03.04.26346878) (medRxiv preprint, 2026)
 - [From static outputs to living evidence: AI for integrated knowledge translation in Canadian health research](https://doi.org/10.2196/99386) (JMIR AI, 2026)
 - [COMPASS I: Near-term AI capabilities and project ideas for primary care](https://doi.org/10.2196/preprints.111828) (JMIR Preprints, 2026)
